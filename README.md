@@ -1,0 +1,1 @@
+API Gateway built on top of the Spring Framework and Spring Boot. It provides routing, load balancing, and cross-cutting concerns such as security, logging, and rate-limiting for your microservices architecture. The gateway routes incoming HTTP requests to various backend services, integrates seamlessly with Eureka for service discovery, and is highly customizable using filters.
